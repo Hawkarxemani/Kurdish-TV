@@ -978,10 +978,13 @@ http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402590.ts
 http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/1402570.ts
 #EXTINF:-1 group-title="⚽️ALL Bein Sport (07703672913)" tvg-id="beINSports3En.qa" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/BEINSPORT3.png",AR| BEIN SPORTS 3 ENGLISH HD
 http://wyveep.com:80/live/zHx9q3bUcpxKEmeU/B3895Vx1XTXSNcxW/237130.ts
-#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/PHBgi3h.png" group-title="movies",MovieSphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RevryHer.us" tvg-name="Revry Her" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533646/images/logo_20231219_221435_68.png" group-title="movies",Revry Her
-https://e1020cd35a264d63afeb5bfbc9c99157.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-73-REVRYHER-24i/mt/24i/73/hls/master/playlist.m3u8
+
+
+
+-------------------------Documentary--------------------------------------------------------
+
+
+
 
 #EXTINF:-1 group-title="| Documentary |",|SPO|  NAT GEO WILD NL
 http://teratv.online:80/get.php?username=158711478533&password=186083606640&type=m3u_plus
@@ -1025,9 +1028,12 @@ https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
 
 
 
---------------------------------------------------------------------------
-#EXTINF:-1 group-title="BeIN Group (07703672913) ",=AR= BEIN MOVIE =AR=
-http://300300.org/live/uGtYMM3eYE6Kb0W/F7yp65caerut3ND/97986.ts
+----------------------Bein Movies----------------------------------------
+
+
+
+
+
 #EXTINF:-1 group-title="BeIN Group (07703672913) ",AR| BeIN Movies Action
 http://300300.org/live/uGtYMM3eYE6Kb0W/F7yp65caerut3ND/97987.ts
 #EXTINF:-1 group-title="BeIN Group (07703672913) ",AR| BeIN Movies Drama
@@ -1063,106 +1069,61 @@ http://300300.org/live/uGtYMM3eYE6Kb0W/F7yp65caerut3ND/98004.ts
 #EXTINF:-1 group-title="BeIN Group (07703672913) ",AR| Bein DTX
 http://300300.org/live/uGtYMM3eYE6Kb0W/F7yp65caerut3ND/98005.ts
 
------------------------------------------------------------------------------------------------
 
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC 1",MBC 1
-#KODIPROP:inputstream=inputstream.adaptive
-http://teratv.online:80/158711478533/186083606640/571640#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC 2",MBC 2
-#KODIPROP:inputstream=inputstream.adaptive
+
+---------------------MBC Group (AR)------------------------------------------------------------------
+
+
+
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC 1
+http://teratv.online:80/158711478533/186083606640/571640
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC 2
 http://teratv.online:80/158711478533/186083606640/571642
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC 3",MBC 3
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC 3
 http://teratv.online:80/158711478533/186083606640/571644
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC 4",MBC 4
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC 4
 http://teratv.online:80/158711478533/186083606640/571646
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC 5",MBC 5
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC 5
 http://teratv.online:80/158711478533/186083606640/571648
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC ELIFE HD",MBC ELIFE HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC ELIFE HD
 http://teratv.online:80/158711478533/186083606640/571650
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC ACTION HD",MBC ACTION HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC ACTION HD
 http://teratv.online:80/158711478533/186083606640/571652
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC MAX HD",MBC MAX HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC MAX HD
 http://teratv.online:80/158711478533/186083606640/571654
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC Variety HD",MBC Variety HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC Variety HD
 http://teratv.online:80/158711478533/186083606640/571656
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC DRAMA HD",MBC DRAMA HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC DRAMA HD
 http://teratv.online:80/158711478533/186083606640/571658
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC+DRAMA HD",MBC+DRAMA HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC+DRAMA HD
 http://teratv.online:80/158711478533/186083606640/571660
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC MASR HD",MBC MASR HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC MASR HD
 http://teratv.online:80/158711478533/186083606640/571662
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC MASR2 HD",MBC MASR2 HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC MASR2 HD
 http://teratv.online:80/158711478533/186083606640/571664
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC IRAQ HD",MBC IRAQ HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC IRAQ HD
 http://teratv.online:80/158711478533/186083606640/571668
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC PERSIA HD",MBC PERSIA HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC PERSIA HD
 http://teratv.online:80/158711478533/186083606640/571670
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC GEO 1 HD",MBC GEO 1 HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC GEO 1 HD
 http://teratv.online:80/158711478533/186083606640/571672
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC GEO 2 HD",MBC GEO 2 HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC GEO 2 HD
 http://teratv.online:80/158711478533/186083606640/571673
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC POWER HD",MBC POWER HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC POWER HD
 http://teratv.online:80/158711478533/186083606640/571674
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC PLUS HD",MBC PLUS HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC PLUS HD
 http://teratv.online:80/158711478533/186083606640/571676
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC TOONS HD",MBC TOONS HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC TOONS HD
 http://teratv.online:80/158711478533/186083606640/571677
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="MBC FAMILY HD",MBC FAMILY HD
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,MBC FAMILY HD
 http://teratv.online:80/158711478533/186083606640/571678
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="Rotana Aflam +",Rotana Aflam +
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,Rotana Aflam +
 http://teratv.online:80/158711478533/186083606640/571729
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="FIX & FOXI",FIX & FOXI
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,FIX & FOXI
 http://teratv.online:80/158711478533/186083606640/571733
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id=" Diseny",Diseny
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,Diseny
 http://teratv.online:80/158711478533/186083606640/571734
-#EXTGRP:MBC Group (AR)
-#EXTINF:-1 tvg-id="Rotana Cinema +US",Rotana Cinema +US
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 group-title="MBC Group (AR)",,Rotana Cinema +US
 http://teratv.online:80/158711478533/186083606640/571758
 #EXTM3U
 #EXTINF:-1 group-title="MBC Group (AR)",AR| MBC 1
@@ -1227,38 +1188,118 @@ http://300300.org/live/uGtYMM3eYE6Kb0W/F7yp65caerut3ND/59254.ts
 http://300300.org/live/uGtYMM3eYE6Kb0W/F7yp65caerut3ND/59255.ts
 #EXTINF:-1 group-title="MBC Group (AR)",AR| FOX MOVIES FAMILY
 http://300300.org/live/uGtYMM3eYE6Kb0W/F7yp65caerut3ND/59269.ts
--------------------------------------------------------------
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://pictures.rudaw.net/Rudaw-logo" ,Rudaw HD
-https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
-#EXTINF:-1 tvg-id="2" tvg-logo="https://www.youtube.com/c/AVAEntertainmentTV/about" ,AVA TV HD
-https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Channel 8 ᴴᴰ" group-title="Kurdish Channels",Channel 8 ᴴᴰ
-https://live.channel8.com/Channel8-Kurdish/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="Kurdistan 24 ᴴᴰ" group-title="Kurdish Channels",Kurdistan 24 ᴴᴰ
-https://hawezhd@d1x82nydcxndze.cloudfront.net:443/live/index_720p25.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="Gali Kurdistan ᴴᴰ" group-title="Kurdish Channels",Gali Kurdistan ᴴ
-https://live.host247.net/gk/gksat/playlist.m3u8 
-#EXTINF:-1 tvg-id="3" tvg-name="Kurdsat News ᴴᴰ" group-title="Kurdish Channels",Kurdsat News ᴴᴰ
-https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="Kurdsat ᴴᴰ" group-title="Kurdish Channels",Kurdsat ᴴᴰ
-https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="Kirkuk ᴴᴰ" group-title="Kurdish Channels",Kirkuk ᴴᴰ
-https://live.kirkuklive.live/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="Payam ᴴᴰ" group-title="Kurdish Channels",Payam ᴴᴰ
-https://media2.streambrothers.com:1936/8218/8218/HawezHD.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://karwan.tv/shams-tv/shams-tv/" ,Shams HD
+
+-----------------------OSN Group (AR)---------------------------------
+
+
+#EXTINF:-1 group-title="OSN Group (AR)",OSN CARTOON NETWORK
+http://teratv.online:80/158711478533/186083606640/572011
+#EXTINF:-1 group-title="OSN Group (AR)",OSN CINEMA 1
+http//teratv.online:80/158711478533/186083606640/572012
+#EXTINF:-1 group-title="OSN Group (AR)",OSN CINEMA 2
+http://teratv.online:80/158711478533/186083606640/572013
+#EXTINF:-1 group-title="OSN Group (AR)",OSN COMDEY
+http://teratv.online:80/158711478533/186083606640/572014
+#EXTINF:-1 group-title="OSN Group (AR)",OSN DISCOVERY IDX
+http://teratv.online:80/158711478533/186083606640/572016
+#EXTINF:-1 group-title="OSN Group (AR)",OSN FOX NEWS
+http://teratv.online:80/158711478533/186083606640/572025
+#EXTINF:-1 group-title="OSN Group (AR)",OSN KIDS
+http://teratv.online:80/158711478533/186083606640/572029
+#EXTINF:-1 group-title="OSN Group (AR)",OSN HISTORY 2
+http://teratv.online:80/158711478533/186083606640/572028
+#EXTINF:-1 group-title="OSN Group (AR)",OSN HISTORY
+http://teratv.online:80/158711478533/186083606640/572027
+#EXTINF:-1 group-title="OSN Group (AR)",OSN GAME TOON
+http://teratv.online:80/158711478533/186083606640/572026
+#EXTINF:-1 group-title="OSN Group (AR)",OSN MEZZE
+http://teratv.online:80/158711478533/186083606640/572031
+#EXTINF:-1 group-title="OSN Group (AR)",OSN MOVIES ACTION
+http://teratv.online:80/158711478533/186083606640/572034
+#EXTINF:-1 group-title="OSN Group (AR)",OSN MOVIES FAMILY
+http://teratv.online:80/158711478533/186083606640/572035
+#EXTINF:-1 group-title="OSN Group (AR)",Osn Movies Hollywood
+http://teratv.online:80/158711478533/186083606640/572036
+#EXTINF:-1 group-title="OSN Group (AR)",OSN MOVIES HORROR
+http://teratv.online:80/158711478533/186083606640/572037
+#EXTINF:-1 group-title="OSN Group (AR)",OSN MOVIES PREMIERE
+http://teratv.online:80/158711478533/186083606640/572038
+#EXTINF:-1 group-title="OSN Group (AR)",OSN Netflix
+http://teratv.online:80/158711478533/186083606640/572042
+#EXTINF:-1 group-title="OSN Group (AR)",OSN NICK JR.
+http://teratv.online:80/158711478533/186083606640/572043
+#EXTINF:-1 group-title="OSN Group (AR)",OSN NICK JR.
+http://teratv.online:80/158711478533/186083606640/572044
+#EXTINF:-1 group-title="OSN Group (AR)",OSN NOW
+http://teratv.online:80/158711478533/186083606640/572046
+#EXTINF:-1 group-title="OSN Group (AR)",OSN On Demand
+http://teratv.online:80/158711478533/186083606640/572047
+#EXTINF:-1 group-title="OSN Group (AR)",OSN ONE
+http://teratv.online:80/158711478533/186083606640/572048
+#EXTINF:-1 group-title="OSN Group (AR)",OSN PLAY CINEMA 1
+http://teratv.online:80/158711478533/186083606640/572049
+#EXTINF:-1 group-title="OSN Group (AR)",OSN PLAY CINEMA 2
+http://teratv.online:80/158711478533/186083606640/572050
+#EXTINF:-1 group-title="OSN Group (AR)",OSN PLAY MOVIES 4
+http://teratv.online:80/158711478533/186083606640/572056
+#EXTINF:-1 group-title="OSN Group (AR)",OSN SHOWCASE
+http://teratv.online:80/158711478533/186083606640/572059
+#EXTINF:-1 group-title="OSN Group (AR)",OSN TLC
+http://teratv.online:80/158711478533/186083606640/572062
+#EXTINF:-1 group-title="OSN Group (AR)",OSN WWE
+http://teratv.online:80/158711478533/186083606640/572063
+#EXTINF:-1 group-title="OSN Group (AR)",OSN YAHALA
+http://teratv.online:80/158711478533/186083606640/572064
+#EXTINF:-1 group-title="OSN Group (AR)",Netflix Action 1
+http://teratv.online:80/158711478533/186083606640/575218
+#EXTINF:-1 group-title="OSN Group (AR)",Netflix Action 2
+http://teratv.online:80/158711478533/186083606640/575226
+#EXTINF:-1 group-title="OSN Group (AR)",AMAZONE MOVIES 3
+http://teratv.online:80/158711478533/186083606640/574146
+
+
+
+
+
+---------------------------News (AR)--------------------------------------------------------
+
+
+
+
+#EXTINF:-1 group-title="News (AR)",Al Jazeera
+https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
+#EXTINF:-1 group-title="News (AR)",Al Hadath TV
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 group-title="News (AR)",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 group-title="News (AR)",France 24 العربية
+https://www.youtube.com/c/FRANCE24Arabic/live
+#EXTINF:-1 group-title="News (AR)",DW العربية
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 group-title="News (AR)",RT العربية
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 group-title="News (AR)",Al-Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1408895114.m3u8
+#EXTINF:-1 group-title="News (AR)",Asharq News
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="News (AR)",BBC Arabic
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd
+#EXTINF:-1 group-title="News (AR)",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 group-title="News (AR)",CNBC Arabiya
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 group-title="News (AR)",Sky News Arabia
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
+#EXTINF:-1 group-title="News (AR)",Shams HD
 https://stream.shams.tv/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://www.facebook.com/waarmedianetwork/?locale=ar_AR" ,Warmedia HD
-https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://www.facebook.com/waarmedianetwork/?locale=ar_AR" ,KurdMax HD
-https://6476e46b58f91.streamlock.net/liveTrans/SHOWB234/chunklist_w1487042778.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://www.facebook.com/waarmedianetwork/?locale=ar_AR" ,Kurdistan TV HD
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://www.facebook.com/waarmedianetwork/?locale=ar_AR" ,KurdMax HD
-#EXTINF:-1 tvg-id="172" tvg-name="Dijlah" tvg-logo="" group-title="Arabic Channels",Dijlah
-https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="158" tvg-name="Bein sport 2" tvg-logo="" group-title="Sport",Bein sport 2
-https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
+#EXTINF:-1 tvg-id="AlIraqiaNews.iq@SD" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="News (AR)",Al Iraqia News (720p)
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1 tvg-id="AlRasheedTV.iq@SD" tvg-logo="https://i.imgur.com/ltyRjPK.png" group-title="News (AR)",Al Rasheed TV (1080p) [Not 24/7]
+https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Alhurra.us@SD" tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="News (AR)",Alhurra (720p)
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+#EXTINF:-1 tvg-id="AlhurraIraq.us@SD" tvg-logo="https://i.imgur.com/fsgQDcN.png" group-title="News (AR)",Alhurra Iraq (720p)
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+
