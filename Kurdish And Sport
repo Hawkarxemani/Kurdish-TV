@@ -308,6 +308,41 @@ http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=156471&extension=ts
 #EXTINF:-1 group-title="|AR| ✪ SPORTS ARABIC",|SPO|  Dubai Sport 2
 http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=156472&extension=ts
 #EXTM3U url-tvg="https://iptv-org.github.io/iptv/index.m3u"
+
+
+
+
+
+
+------------------ Bein 8K-------------------------------------------------------------------------
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="beIN Sport 1 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 1 8K🔥
+http://afcocafot.com:8080/bn14k/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 2 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 2 8K🔥
+http://afcocafot.com:8080/bn24k/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 3 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 3 8K🔥
+http://afcocafot.com:8080/bn34k/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 4 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 4 8K🔥
+http://afcocafot.com:8080/bn44k/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 5 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 5 8K🔥
+http://afcocafot.com:8080/bn54k/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 6 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 6 8K🔥
+http://afcocafot.com:8080/bn64k/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 7 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 7 8K🔥
+http://afcocafot.com:8080/bn74k/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 8 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 8 8K🔥
+http://afcocafot.com:8080/bn84k/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sport 9 8K" tvg-logo="" group-title="beIN Sports",beIN Sport 9 8K🔥
+http://afcocafot.com:8080/bn94k/index.m3u8
+
+
+
+
+
 #EXTM3U
 #EXTINF:-1 group-title=" ✪ Hawkar SPORT SD (07703672913)" tvg-id="beinsportsnews.qa" tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png",beIN SPORTS NEWS SD
 http://dream4k.co/live/f4sgc4p7pu/mtnah0caro/274145.ts
